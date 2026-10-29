@@ -1,0 +1,822 @@
+no;jenis_data;bahasa_sikka;bahasa_indonesia
+1;kalimat;Rimu a mu'u;Mereka makan pisang
+2;kalimat;a'u oa mu'u;saya makan pisang
+3;kalimat;'au goa mu'u;kamu makan pisang
+4;kalimat;nimu ga mu'u;dia makan pisang
+5;kalimat;ami gea mu'u;kami makan pisang
+6;kalimat;ita ea mu'u;kita makan pisang
+7;kalimat;miu gea mu'u;kalian makan pisang
+8;kalimat;'au gapu liri;kamu peluk tiang
+9;kalimat;nimu gapu liri;dia peluk tiang
+10;kalimat;ami gapu liri;kami peluk tiang
+11;kalimat;miu gapu liri;kalian peluk tiang
+12;kalimat;A'u apu liri;Saya peluk tiang
+13;kalimat;'Ita apu liri;Kita peluk tiang
+14;kalimat;Rimu apu liri;Mereka peluk tiang
+15;kalimat;A daha rinu linok;Makan tanpa kerja (kiasan)
+16;kalimat;A daha rinu linok;makan nasi minum bersih
+17;kalimat;a'u a e sekolah;saya pergi ke sekolah
+18;kalimat;'au ma e sekolah;kamu pergi ke sekolah
+19;kalimat;nimu na e sekolah;dia pergi ke sekolah
+20;kalimat;ami ma e sekolah;kami pergi ke sekolah
+21;kalimat;ita ta e sekolah;kita pergi ke sekolah
+22;kalimat;miu ma e sekolah;kalian pergi ke sekolah
+23;kalimat;rimu ra e sekolah;mereka pergi ke sekolah
+24;kalimat;a'u a e'i sekolah;saya pergi ke sekolah
+25;kalimat;'au ma e'i sekolah;kamu pergi ke sekolah
+26;kalimat;nimu na e'i sekolah;dia pergi ke sekolah
+27;kalimat;ami ma e'i sekolah;kami pergi ke sekolah
+28;kalimat;ita ta e'i sekolah;kita pergi ke sekolah
+29;kalimat;miu ma e'i sekolah;kalian pergi ke sekolah
+30;kalimat;rimu ra e'i sekolah;mereka pergi ke sekolah
+31;kalimat;A'a gete tung tama ola uneng;Bibi tertua menghantar ke bilik pengantin
+32;kalimat;Na'a inang bekat epang 'uwung ganu ata towa;Pendidikan bibi ia semakin berkembang (kiasan)
+33;kalimat;Na'a inang bekat epang 'uwung ganu ata towa;Bibi berkat baik kepala seperti orang tarik keluar
+34;kalimat;'au gapu ga'a liri;kamu peluk tiang
+35;kalimat;nimu gapu ga'a liri;dia peluk tiang
+36;kalimat;ami gapu ga'a liri;kami peluk tiang
+37;kalimat;miu gapu ga'a liri;kalian peluk tiang
+38;kalimat;A'u apu 'a'a liri;Saya peluk tiang
+39;kalimat;'Ita apu 'a'a liri;Kita peluk tiang
+40;kalimat;Rimu apu 'a'a liri;Mereka peluk tiang
+41;kalimat;Liri tia gapu ga'a telu;Tiang itu tiga pemeluk besarnya
+42;kalimat;Nimu le'e a'ang a'un;Ia tak mau berbibikan saya
+43;kalimat;Me tia nala bunu a'at;Anak itu menyerupai bibinya
+44;kalimat;A'at nulu warit depo;Bibinya mendahului, adiknya menyusul
+45;kalimat;lodang bahar;kalung emas
+46;kalimat;Me la'i kawit werung 'lili nora lodang bahar;Anak laki-laki yang baru menikah mengenakan kalung emas
+47;kalimat;Rimu abang papak mo'an Bupati;Mereka menyambut bapak Bupati
+48;kalimat;a'u abang papak mo'an  Bupati;saya menyambut bapak Bupati
+49;kalimat;'au abang papak mo'an Bupati;kamu menyambut bapak Bupati
+50;kalimat;nimu abang papak mo'an Bupati;dia menyambut bapak Bupati
+51;kalimat;ami abang papak mo'an Bupati;kami menyambut bapak Bupati
+52;kalimat;ita abang papak mo'an Bupati;kita menyambut bapak Bupati
+53;kalimat;miu abang papak mo'an Bupati;kalian menyambut bapak Bupati
+54;kalimat;Rimu soka papak;Mereka menari untuk menyambut
+55;kalimat;A'u soka papak;Saya menari untuk menyambut
+56;kalimat;'Au soka papak;Kamu menari untuk menyambut
+57;kalimat;Nimu soka papak;Dia menari untuk menyambut
+58;kalimat;Ami soka papak;Kami menari untuk menyambut
+59;kalimat;Ita soka papak;Kita menari untuk menyambut
+60;kalimat;Miu soka papak;Kalian menari untuk menyambut
+61;kalimat;Ami ma abang papak mo'an bupati e natar wutun;Kami pergi menyambut bapak bupati di ujung kampung
+62;kalimat;Lopa abang a'u ga'i tola 'wenu me tia;Jangan menghalangi aku mau pukul anak itu
+63;kalimat;Poi ata abar pita, e'on ha a'u tola 'wenu nimu;Untung ada yang melerai, coba tidak saya pukul dia
+64;kalimat;Wate nimun blatang ba'a, loning guru mai tutur abar le'u;Telah tenang hatinya karena guru melerai dengan nasehatnya
+65;kalimat;Gapu wali hunur mut, abeng wali 'rahang blatang;Merangkul dalam dada hangat, merangkul dalam dada dingin
+66;kalimat;Tena abo nang ba'a;Perahu berlayar sudah 
+67;kalimat;Rimu abo da'a reta Bola;Mereka berlayar sampai di Bola
+68;kalimat;Abo pot mora 'uneng, gole sesung mora wutung;Berlayar menyusuri teluk, mengitari tanjung
+69;kalimat;Pripong ganu Wio, abong ganu Jagong;Memelihara seperti Wio, memelihara seperti Jagong
+70;kalimat;Rimu pra waing tepo adat Sikka;Mereka bertunangan menurut adat Sikka
+71;kalimat;Ita naha mogat adat wi'it ;Kita harus saling menghormati adat
+72;kalimat;Wolong ha ha nora adat nimun;Setiap bukit dengan adatnya
+73;kalimat;Ga da'a ta'in adir golo;Makan sampai perut kembung
+74;kalimat;Adir goa sai;Kenyang makan sudah
+75;kalimat;Ruang alang nimun aduk wi'in;Kedua kepalanya saling berbenturan
+76;kalimat;Naruk 'ia la'en nora ude aduk;Hal itu belum dengan tepat bicaranya
+77;kalimat;Nimu deri madu-adung poi;Ia duduk bermalas-malasan saja
+78;kalimat;A'u 'a'e;Saya menggendong
+79;kalimat;'Ita 'ae;Kita menggendong
+80;kalimat;Rimu 'ae;Mereka menggendong
+81;kalimat;'au ga'e;kamu menggendong
+82;kalimat;nimu ga'e;dia menggendong
+83;kalimat;ami ga'e;kami menggendong
+84;kalimat;miu ga'e;kalian menggendong
+85;kalimat;Nimu bua ga'e e wulan Oktober;Ia melahirkan anak di bulan Oktober
+86;kalimat;a'u wua a'e e wulan Oktober;saya melahirkan anak di bulan Oktober
+87;kalimat;'au bua ga'e e wulan Oktober;kamu melahirkan anak di bulan Oktober
+88;kalimat;ami bua ga'e e wulan Oktober;kami melahirkan anak di bulan Oktober
+89;kalimat;ita wua a'e e wulan Oktober;kita melahirkan anak di bulan Oktober
+90;kalimat;miu bua ga'e e wulan Oktober;kalian melahirkan anak di bulan Oktober
+91;kalimat;rimu wua a'e e wulan Oktober;mereka melahirkan anak di bulan Oktober
+92;kalimat;A'u 'aer;Saya mencampur
+93;kalimat;Ita 'aer;Kita mencampur
+94;kalimat;Rimu 'aer;Mereka mencampur
+95;kalimat;Rimu 'aer le'u pare nora lele;Mereka mencampur beras dengan jagung
+96;kalimat;'au gaer;kamu mencanpur
+97;kalimat;nimu gaer;dia mencampur
+98;kalimat;ami gaer;kami mencampur
+99;kalimat;miu gaer;kalian mencampur
+100;kalimat;Ami tama agama Katolik;Kami menganut agama Katolik
+101;kalimat;Modung 'aun hemu tia dena meang ami;Tingkah lakumu jelek itu membuat malu kami
+102;kalimat;Ami aha wa'an e'i uma;Kami mencabut rumput di kebun
+103;kalimat;Mo'ang dokter aha niung;Bapak Dokter mencabut gigi
+104;kalimat;ami han;Kami semua
+105;kalimat;Krowe han;seluruh Krowe
+106;kalimat;Sikka han;seluruh Sikka
+107;kalimat;Ahar poi;Begitu saja
+108;kalimat;Ganu ahu bait nurak;Seperti anjing melahirkan muda
+109;kalimat;pano ahu;jalan anjing
+110;kalimat;ai dopang;kayu hanyutan
+111;kalimat;ai heret;temulawak
+112;kalimat;ai 'oba;tetumbuhan
+113;kalimat;ai ohu;ubi kayu
+114;kalimat;ai plea;obat
+115;kalimat;ai roung;daun
+116;kalimat;ai sensu;dupa
+117;kalimat;ai ta'i;temulawak
+118;kalimat;ai tali;ilmu gaib
+119;kalimat;Paket ai tali;Memakai ilmu gaib
+120;kalimat;ai wa'an;berkebun
+121;kalimat;Ami rehi mai, loning wulang 'ai-wa'an;Kami tak dapat datang, karena musim berkebun
+122;kalimat;'ai weris;korek api
+123;kalimat;Ami deri mobo e'i 'ai pu'an;Kami duduk nongkrong di pohon kayu
+124;kalimat;'aja da'an;jagung muda
+125;kalimat;'aja werang;biji jagung
+126;kalimat;'aja pelang;jagung titi
+127;kalimat;ara 'aja;nasi jagung
+128;kalimat;'Aja wawa mai 'aja buluk kuhuk-kahak, 'aja le mai 'aja blong lewang li'at;Jagung arah barat jagung pendek-pendek, jagung arah timur jagung panjang melewati tungku
+129;kalimat;Ajar le'u 'ara ia na blatang;Sebarkan nasi supaya dingin
+130;kalimat;'Wori pare naha ajar, lopa 'omok poi odi dara ene da'a;Menjemur padi harus disebarkan, jangan dikumpul nanti panas tidak kena
+131;kalimat;Nimu ajar poi hoang;Ia memboros saja uang
+132;kalimat;Pau nora kabor ruang aju wi'in;Mangga dengan kelapa berdua saling bercampur
+133;kalimat;Ata tubi nimu da'a ajumeko la'ak;Orang tumbuk dia sampai rahang rusak
+134;kalimat;Nimu gera uku-aka e lalang;Dia berdiri kebingungan di jalan
+135;kalimat;Nimu gu'a dena du uku-aka poi;Dia mengerjakan dengan sembarang saja
+136;kalimat;Setan ane nora 'akar waeng-waeng;Setan menggoda dengan akal macam-macam
+137;kalimat;Bano akat poi loning ata tu'e;Berjingkatlah karena orang tidur
+138;kalimat;Bano akat poi = Bano elot poi;berjingkatlah
+139;kalimat;Nimu tutur aket golo;Ia berbicara tepat sekali
+140;kalimat;a'u ala hoang;saya mengambil uang
+141;kalimat;'au mala hoang;kamu mengambil uang
+142;kalimat;nimu nala hoang;dia mengambil uang
+143;kalimat;ami mala hoang;kami mengambil uang
+144;kalimat;ita tala hoang;kita mengambil uang
+145;kalimat;miu mala hoang;kalian mengambil uang
+146;kalimat;rimu lala hoang;mereka mengambil uang
+147;kalimat;ala nimun blara = alang blara;kepalanya sakit
+148;kalimat;Goa alak gawang;Makanlah sedikit banyak
+149;kalimat;Bano alang bla'ang;Berjalan sedikit cepat
+150;kalimat;Naha du'e 'alak nane;Tidurlah sedikit lama
+151;kalimat;alang 'roung;rambut 
+152;kalimat;alang korak;tengkorak
+153;kalimat;alang watu;kepala keras
+154;kalimat;alang gorang;kepala gundul
+155;kalimat;alang gelok;botak
+156;kalimat;alang taka;kepala tajam
+157;kalimat;'roit alang;cukur rambut
+158;kalimat;Saing alang di me tia la'en bo'u poi;Sampai sekarang juga anak itu belum datang
+159;kalimat;Saing  enahung sape alang te'i sape dading;Sejak dahulu, sekarang dan sampai selama-lamanya
+160;kalimat;Alang amin ba'a;Sudah jadi kebiasaan kami
+161;kalimat;Jata kapa alang mahak;Pintallah kapas sedikit halus
+162;kalimat;wa'in alar;bekas kaki
+163;kalimat;i'an nepar alar;jejak penyu
+164;kalimat;'oneng 'alas;celana dalam
+165;kalimat;pale-alet;berkias-kiasan
+166;kalimat;Nimu alet 'lo'a ita;Ia berkias kepada kita
+167;kalimat;'o'i;menggali-gali
+168;kalimat;A'u ali liang;Saya menggali lubang
+169;kalimat;Ita ali ohu;Kita menggali ubi
+170;kalimat;Rimu ali tuka;Mereka menggali ubi talas
+171;kalimat;'Ata ali tana;orang menggali tanah
+172;kalimat;A'u a ali ohu ai;saya pergi menggali ubi kayu
+173;kalimat;aling gete;urat nadi
+174;kalimat;sapi aling;urat sapi
+175;kalimat;bao aling;tunjang beringin
+176;kalimat;aling pladur;ngotot, kuat berbantah
+177;kalimat;aling kleger;urat memendek
+178;kalimat;wideng gideng aling plari;Orang rajin bekerja (kiasan)
+179;kalimat;Ngaji lakang weli alma e'i api dena meluk;Berdoa bagi arwah di api pencucian
+180;kalimat;Alo ganu ata mo'an 'lameng;Roman macam orang tua
+181;kalimat;Nimu alo e'on ba'a;Ia telah hilang mukanya
+182;kalimat;Tiwang e'i alok;Berlabuh di pelabuhan
+183;kalimat;iling alok;udik dan hilir
+184;kalimat;Bano 'lala along;Berjalan sambil melihat bayangannya
+185;kalimat;Bi'an 'ia ene along-glelak 'eba'u;Orang itu tak nampak bayangannya disini
+186;kalimat;A'u ni'a along poi;Kulihat bayangannya saja
+187;kalimat;Along la'eng jebak, 'ami naha bui, ina naha te'er, mepu 'aming bo'u mai;Bayangan belum turun, kami harus menanti, ibu juga menanti anak-cucuk datang
+188;kalimat;'ilang-'alos;cantik lagi ramping
+189;kalimat;Wai pare nora alu;Menumbuk padi dengan alu
+190;kalimat;Tibang nimun 'alus golo;Dacingnya murni
+191;kalimat;Tuhan Amapu tibang 'alus to'i;Tuhan Allah lebih adil
+192;kalimat;pare 'ama;gabah
+193;kalimat;pare werang;kulit padi
+194;kalimat;'Ulit beti 'ama blara;Kulit badan merasa sakit
+195;kalimat;Rimu ata aman 'apar;Mereka adalah orang kaya (kiasan)
+196;kalimat;aman, amang;bapaknya
+197;kalimat;ama buang;ayah kandung
+198;kalimat;ama gete;bapak besar/tertua
+199;kalimat;ama 'lorang;bapak di tengah, bapak kedua
+200;kalimat;ama doi;bapak kecil, adik bapak
+201;kalimat;ama wutung;bapak akhir
+202;kalimat;ama serani;bapak permandian
+203;kalimat;ama mo'a;kakek
+204;kalimat;Manu ama;ayam jantan
+205;kalimat;Ama hawua poi, ko ina pehang;Satu ayah tapi ibu berbeda
+206;kalimat;wawi 'amang, wawi, 'aman;makanan babi
+207;kalimat;amang guru;bapak guru
+208;kalimat;amang santo;bapak santo
+209;kalimat;kena amang;si anu, si dia
+210;kalimat;Nurak amang;si Nurak
+211;kalimat;Amang 'epae ma?;Bapak kemana ?, Om kemana ?
+212;kalimat;Be amang, lopa imung mora nimu tia;Hai anakku jangan berkawan dengan dia
+213;kalimat;Waeng ganu amat;Muka eperti bapaknya
+214;kalimat;Nora amat pano reta Nele ra;Dengan bapaknya pergi ke Nele
+215;kalimat;Amat mate ba'a;Bapaknya telah meninggal
+216;kalimat;Waeng ganu aman;Muka eperti bapaknya
+217;kalimat;Nora aman pano reta Nele ra;Dengan bapaknya pergi ke Nele
+218;kalimat;Aman mate ba'a;Bapaknya telah meninggal
+219;kalimat;Waeng ganu amang;Muka seperti bapaknya
+220;kalimat;Nora amang pano reta Nele ra;Dengan bapaknya pergi ke Nele
+221;kalimat;Amang mate ba'a;Bapaknya telah meninggal
+222;kalimat;Nimu olah raga berat rakang iana dadi memek;Dia olah raga terlalu berat sehingga menjadi lemah
+223;kalimat;Nimu olah raga berat rakang iana dadi meme amok;Dia olah raga terlalu berat sehingga menjadi lemah
+224;kalimat;Rimu ameng ne'i ba'a ga'i na'o e'i lepo tia;Mereka telah nekad mau mencuri di rumah itu
+225;kalimat;neni 'ampon;minta apun
+226;kalimat;a'u ga'i 'ana tepa;saya mau anyam keranjang lontar
+227;kalimat;rimu ga'i rana tepa;mereka mau menganyam keranjang lontar
+228;kalimat;ita ga'I tana tepa;kita mau menganyam keranjang lontar
+229;kalimat;'au ga'i mana tepa;kamu mau anyam keranjang lontar
+230;kalimat;nimu ga'i nana tepa;dia mau menganyam keranjang lontar
+231;kalimat;ami ga'i mana tepa;kami mau menganyam keranjang lontar
+232;kalimat;miu ga'i mana tepa;kalian mau menganyam keranjang lontar
+233;kalimat;manu anak;ayam kecil
+234;kalimat;manu anak;anak ayam
+235;kalimat;me anak;anak kecil
+236;kalimat;Beli a'u ahu anak;Beri saya anak anjing
+237;kalimat;bedi anak;peluru senapan
+238;kalimat;a'u 'ane e'i lalang tia;saya melewati di jalan itu
+239;kalimat;'au mane e lalang tia;kamu melalui di jalan itu
+240;kalimat;nimu nane e'i lalang tia;dia melewati di jalan itu
+241;kalimat;ami mane lepo 'aun;kami melewati rumahmu
+242;kalimat;rimu rane lepo a'un;mereka melalui rumahku
+243;kalimat;ita tane lalang tia;kita melewati jalan itu
+244;kalimat;miu mane lalang tia;kalian melewati jalan itu
+245;kalimat;Lopa ane ata;Jangan mengganggu orang
+246;kalimat;Lopa ane klageng ata;Jangan mengganggu orang
+247;kalimat;A'u woter ane i'an e'i regang Alok;Saya beli umpan ikan di pasar Alok
+248;kalimat;ane i'an;umpan ikan
+249;kalimat;Rimu 'ang nora rinung e'on;Mereka tak ada makanan dan minuman
+250;kalimat;Rimu 'ang-rinung e'on;Mereka tak ada makanan dan minuman
+251;kalimat;A'u 'oang nora 'inung e'on;Saya tak ada makanan dan minuman
+252;kalimat;A'u 'oang-'inung e'on;Saya tak ada makanan dan minuman
+253;kalimat;'Au goang nora minung e'on;Kamu tak ada makanan dan minuman
+254;kalimat;'Au goang-minung e'on;Kau tak ada makanan dan minuman
+255;kalimat;Nimu gang nora ninung e'on;Dia tak ada makanan dan minuman
+256;kalimat;Nimu gang-ninung e'on;Dia tak ada makanan dan minuman
+257;kalimat;Ami geang nora minung e'on;Kami tak ada makanan dan minuman
+258;kalimat;Ami geang-minung e'on;Kami tak ada makanan dan minuman
+259;kalimat;Ita 'eang nora tinung e'on;Kita tak ada makanan dan minuman
+260;kalimat;Ita 'eang-tinung e'on;Kita tak ada makanan dan minuman
+261;kalimat;Miu geang nora minung e'on;Kalian tak ada makanan dan minuman
+262;kalimat;Miu geang-minung e'on;Kalian tak ada makanan dan minuman
+263;kalimat;A'u pano;Saya pergi
+264;kalimat;A'u 'ingo ora gu'a dena nimun;Saya mencibir atas kelakukannya
+265;kalimat;A'u 'ingo 'engo ora gu'a dena nimun;Saya mencibir atas kelakukannya
+266;kalimat;'Au gingo mora gu'a dena nimun;Kamu mencibir atas kelakuannya
+267;kalimat;'Au gingo-gengo mora gu'a dena nimun;Kamu mencibir atas kelakuannya
+268;kalimat;Nimu gingo nora gu'a dena nimun;Dia mencibur atas kelakukannya
+269;kalimat;Nimu gingo gengo nora gu'a dena nimun;Dia mencibur atas kelakukannya
+270;kalimat;Ami gingo mora gu'a dena nimun;Kami mencibir atas kelakuannya
+271;kalimat;Ami gingo gengo mora gu'a dena nimun;Kami mencibir atas kelakuannya
+272;kalimat;Ita 'ingo tora gu'a dena nimun;Kita mencibir atas kelakuannya
+273;kalimat;Ita 'ingo engo tora gu'a dena nimun;Kita mencibir atas kelakuannya
+274;kalimat;Miu gingo mora gu'a dena nimun;Kalian mencibir atas kelakuannya
+275;kalimat;Miu gingo gengo mora gu'a dena nimun;Kalian mencibir atas kelakuannya
+276;kalimat;Rimu 'ingo lora gu'a dena nimun;Mereka mencibir atas kelakukannya
+277;kalimat;Rimu 'ingo 'engo lora gu'a dena nimun;Mereka mencibir atas kelakukannya
+278;kalimat;Waeng 'angong ganu 'amat;Muka seperti ayahnya
+279;kalimat;aning matang;mata angin
+280;kalimat;aning wa'a mai;angin haluan
+281;kalimat;aning wuri mai;angin buritan
+282;kalimat;aning timu;angin timur
+283;kalimat;aning barat;angin barat
+284;kalimat;aning utara;angin utara
+285;kalimat;aning selatan;angin selatan
+286;kalimat;aning loat;angin ribut
+287;kalimat;aning borok;angin kencang
+288;kalimat;aning tunggara;angin tenggara
+289;kalimat;aning barat daya;angin barat daya
+290;kalimat;aning timu tahi;angin timur laut
+291;kalimat;aning barat tahi;angin barat laut
+292;kalimat;aning le mai;angin timur
+293;kalimat;aning wawa mai;angin barat
+294;kalimat;aning lau mai;angin utara
+295;kalimat;aning reta mai;angin selatan
+296;kalimat;aning lau le mai;angin timur laut
+297;kalimat;aning lau wawa mai;angin barat laut
+298;kalimat;aning reta le mai;angin tenggara
+299;kalimat;aning reta wawa mai;angin barat daya
+300;kalimat;A'u 'ao wair;Saya mencedok air
+301;kalimat;'Ita 'ao wair;Kita mencedok air
+302;kalimat;Rimu 'ao wair;Mereka mencedok air
+303;kalimat;'Au gao wair;Kamu mencedok air
+304;kalimat;Ami gao wair;Kami mencedok air
+305;kalimat;Miu gao wair;Kalian mencedok air
+306;kalimat;Nimu gao wair;Dia mencedok air
+307;kalimat;apa 'ia?;apa itu?
+308;kalimat;apa e'i?;apa ini?
+309;kalimat;apa ha?;berapa?
+310;kalimat;apa mole?;apa lagi?
+311;kalimat;apa na?;mengapa?
+312;kalimat;Alang 'apar rakang;Rambut tebal sekali
+313;kalimat;Labu 'apar;Baju tebal
+314;kalimat;Waeng 'apar;Muka tebal
+315;kalimat;Ata ama 'apar;orang kaya
+316;kalimat;Labu dabak 'apar;Baju penuh tambal
+317;kalimat;Apa wi Amapu apet ne'i ba'a, atabi'an lopa wega le'u;Apa yang Tuhan telah persatukan, tak boleh diceraikan manusia
+318;kalimat;Hori walong meing, apet walong 'etan;Mengisi kembali darah yang telah hilang, persatukan lagi daging
+319;kalimat;Hege api;Mengambil api
+320;kalimat;'Ikot api;Membuat api
+321;kalimat;Api bara ba'a;Api sudah menyala
+322;kalimat;Api bere;Api padam
+323;kalimat;Api tua;memasak tuak
+324;kalimat;Tu tua;memasak tuak
+325;kalimat;Api daging da'a kisak;Memasak daging sampai lunak
+326;kalimat;Api 'ai plea;Memasak ramuan
+327;kalimat;A'u apu me a'un;Saya memeluk anakku
+328;kalimat;Ita apu atabi'an pehang;Kita memeluk sesama
+329;kalimat;Rimu apu me rimun;Mereka peluk anak mereka
+330;kalimat;'Au gapu loni apung;Engkau memeluk guling
+331;kalimat;Ami gapu loni;Kami memeluk bantal
+332;kalimat;Miu gapu loni;Kalian memeluk bantal
+333;kalimat;Nimu gapu a'u;dia memeluk saya
+334;kalimat;loni apung;bantal peluk
+335;kalimat;loni apung;guling
+336;kalimat;ai apung ha;kayu satu pelukan
+337;kalimat;Apung 'lohor kawu la'eng;Embun turun subuh
+338;kalimat;Beda ploi lalang ole hewar apung;Membuka jalan yang berembun
+339;kalimat;apur ta'a;kapur sirih
+340;kalimat;apur kelang;kapur tulis
+341;kalimat;Lepo gebi nora apur;Dinding rumah diberi kapur
+342;kalimat;Wulang ar 'oti ko rimu pano;Bulan menyingsing baru mereka berangkat
+343;kalimat;'Ara lau tahi;Hadap ke laut
+344;kalimat;'Ara reta iling;Hadap ke gunung
+345;kalimat;Prage ara wae;Duduk bersila berhadapan muka
+346;kalimat;Rimu 'ara lora bupati;Mereka menghadap bupati
+347;kalimat;Piara me blutuk ina-ama 'ara rimun;Memelihara anak-anak merupakan kewajiban orang tua mereka
+348;kalimat;Gu'a dena depo 'ara pangkat 'aun;Kerja menurut kewajibanmu
+349;kalimat;Gu'a dena depo 'ara pangkat 'aun;Kerja menurut pangkatmu
+350;kalimat;ara wot;nasi sisa
+351;kalimat;ara pungang;nasi kukus
+352;kalimat;ara mutung;kerak nasi
+353;kalimat;ara wawi;nasi dan babi lambang sebuah pesta
+354;kalimat;ara wawi;nasi babi
+355;kalimat;Wawi tia ma'a da'a ara lima;Babi itu dibagi sampai lima bagian
+356;kalimat;Ami toma ara ha;Kami dapat satu bagian
+357;kalimat;Nimu ara rua pangkat;Dia merangkap dua jabatan
+358;kalimat;ai ara;pohon ara
+359;kalimat;gebi nane arang;dinding menggunakan papan
+360;kalimat;watu arang;papan kayu gergajian
+361;kalimat;Jarang to'eng detung ganu arang;Belakang kuda rata bagai papan
+362;kalimat;Wane arang lima;Lima lembar sarang lebah
+363;kalimat;Ukung arderu a'un ene e'i dunia te'i;Kerajaanku bukan di dunia ini
+364;kalimat;areng korak;arang tempurung
+365;kalimat;areng 'ai habi;arang kayu kesambi
+366;kalimat;mutu muher dadi awu areng;hangus jadi abu
+367;kalimat;Ami ene 'ari 'ana 'aun;Kami bukan pesuruhmu
+368;kalimat;'ari 'ana nimun bano ba'a;pembantunya sudah pulang
+369;kalimat;A'u 'aro wae a'un;Saya garuk wajahku
+370;kalimat;Ita 'aro to'e nimun;Kita garuk punggungnya
+371;kalimat;Rimu 'aro;Mereka garuk
+372;kalimat;'Au garo lima aun;Kamu menggaruk tanganmu
+373;kalimat;Ami garo lima a'un;Kami menggaruk tanganku
+374;kalimat;Miu garo tebo miun;Kalian menggaruk badan kalian
+375;kalimat;Nimu garo alan nimun;Dia menggaruk kepalahnya
+376;kalimat;garo sasir;menggaruk kuat
+377;kalimat;Me 'ia aru rakang golo;Anak itu melawan sekali
+378;kalimat;Lopa aru mora guru;Jangan melawan dengan guru
+379;kalimat;Ata waga arung;Orang pemotong kepala
+380;kalimat;Arung pegur loning blarang da'a;Dagunya miring karena penyakit
+381;kalimat;'Uming tawa e'i arung;Janggut bertumbuh pada dagu
+382;kalimat;Ansing blatang ba'a;Nafsu telah tenang
+383;kalimat;'Asu ganu nona inang;Cantik bagai gadis
+384;kalimat;Nimu soka 'asu le'u rakang;Dia menari indah sekali
+385;kalimat;A'u 'ata buku matematika;Saya membaca buku matematika
+386;kalimat;'Ita 'ata buku matematika;Kita membaca buku matematika
+387;kalimat;Rimu 'ata buku les biologi;Mereka membaca buku pelajaran biologi
+388;kalimat;'Au gata apa?;Kamu membaca apa?
+389;kalimat;Ami gata;Kami membaca pelajaran IPA
+390;kalimat;Miu gata apa 'ia?;Kaliam membaca apa itu?
+391;kalimat;Nimu gata buku cerita;Kamu membaca buku cerita
+392;kalimat;ata tawa tana;orang asli
+393;kalimat;ata na'o;pencuri
+394;kalimat;ata rate;narapidana
+395;kalimat;ata nane ri'i;beratap alang-alang
+396;kalimat;ata nane blek;beratap seng
+397;kalimat;nere ata;cucuran atap
+398;kalimat;ata 'u'eng ;suanggi
+399;kalimat;Atabi'ang bi'a pira? Bi'a lima;Berapa orang manusia? Lima orang
+400;kalimat;Nimu 'ator la'eng meja;Ia sedang mengatur meja
+401;kalimat;Tubu uma nimun name aur;Pagar kebunnya dari aur
+402;kalimat;Aur terang to'i le'u peli;Aur lebih kuat dari bambu
+403;kalimat;ave Maria;salam Maria
+404;kalimat;A'u awang;Saya menjaga
+405;kalimat;'Au mawang;Engkau menjaga
+406;kalimat;Nimu nawang;Dia menjaga
+407;kalimat;'Ami mawang;Kami menjaga
+408;kalimat;Ita tawang;Kita menjaga
+409;kalimat;Miu mawang;Kamu menjaga
+410;kalimat;Rimu rawang;Mereka menjaga
+411;kalimat;Ami mawang ata blarang;Kami menjaga orang sakit payah
+412;kalimat;A'u awi;Saya melangkah 
+413;kalimat;Ita awi;Kita berjalan
+414;kalimat;Rimu awi;Mereka melewati
+415;kalimat;'Au gawi;Kamu melangkah
+416;kalimat;Ami gawi;Kami melangkah
+417;kalimat;Miu gawi;Kalian berjalan
+418;kalimat;Nimu gawi;Dia berjalan
+419;kalimat;himo awu;terima abu
+420;kalimat;mutu muher awu areng;hangus menjadi abu
+421;kalimat;Ina a'un gu'a e awu;Ibuku bekerja di dapur
+422;kalimat;Oring 'aming norang awu 'lele rua;Rumah kami ada dua dapur
+423;kalimat;Nimu na;dia ke
+424;kalimat;ha'I na;siapa ke
+425;kalimat;Nimu na le Nele;Dia ke Nele
+426;kalimat;Hai na lau Maumere;Siapa ke Maumere
+427;kalimat;Nimu na nala roding;Dia pergi ambil parang
+428;kalimat;A'u 'a ala rabang;Saya pergi ambil jala
+429;kalimat;'Au ma mala rabang;Kau pergi ambil jala
+430;kalimat;Nimu na nala rabang;Dia pergi ambil jala
+431;kalimat;Hai na nala rabang;Siapa pergi ambil jala
+432;kalimat;Ami ma mala rabang;Kami pergi ambil jala
+433;kalimat;Ita ta tala rabang;Kita pergi ambil jala
+434;kalimat;Miu ma mala rabang;Kalian pergi ambil jala
+435;kalimat;Rimu ra lala rabang;Mereka pergi ambil jala
+436;kalimat;Hai-hai ra lala rabang;Siapa-siapa pergi ambil jala
+437;kalimat;Lopa ma mala rabang;Jangan pergi ambil jala
+438;kalimat;Ma mala rabang;Pergilah ambil jala
+439;kalimat;Nimu biasa na mai 'ei 'oring aming;Dia biasa pergi datang di rumah kami
+440;kalimat;A'u pa'ot nimu lopa ia na-na;Saya larang dia jangan pergi ke salah satu tempat
+441;kalimat;Nimu beit beta e'on ko na-na odi dadi;Dia menyangkal tetapi pada salah satu waktu akan terjadi
+442;kalimat;Nimu beta hala meha, ko na-na odi demeng;Dia mengatakan salah semua, tetapi lama kelamaan akan benar
+443;kalimat;Wa'I gawang e'on ko na-na odi dadi;Seringkali memang tidak tetapi kadang-kadang jadi juga
+444;kalimat;Nimu mai tutur ia na ami raintang;Dia datang menyampaikan supaya kami juga mengetahui
+445;kalimat;Bano na-nang ba'a;Sudah pergi menghilang
+446;kalimat;Juana bano na-nang ba'a;Juana sudah pergi
+447;kalimat;Juana bano nang ba'a;Juana sudah pergi
+448;kalimat;Serwisu a'un sawe na-nang ba'a;Pekerjaanku sudah selesai
+449;kalimat;Serwisu a'un sawe nang ba'a;Pekerjaanku sudah selesai
+450;kalimat;Na'a a'un narang da Menor;Bibiku bernama da Menor
+451;kalimat;Na'a Jeneng ata Gerejati;Bibi Jeneng orang Gerejati
+452;kalimat;Na'a mitang;Bibi hitam
+453;kalimat;Na'a heret;Bibi putih kuning
+454;kalimat;Na'a Nita;Bibi Nita
+455;kalimat;Na'a Sumba;Bibi Sumba
+456;kalimat;A'u depa nimu na'a telu;saya tempeleng dia tiga kali
+457;kalimat;Ama a'un na'I ne'I bahar na'a telu ko tena le'u ba'a ling weling wue a'un;Ayah saya menyimpan tiga pasang emas tetapi sudah jadi belis kakakku
+458;kalimat;Hai ganu a'u pasak naga tilung pitu, lahing da'a na'a pitu;Siapa seperti saya menembak naga bertelinga tujuh, jumlah lukanya tujuh buah untuk satu tembakan
+459;kalimat;Watu ogor na'an wi'in du betu bing;Batu berguling kena mengena dengan keras
+460;kalimat;'Oto pano pano poi na'an wi'in kesik ha di sopir ruang moro wi'in;Mobil hanya kena mengena sedikit juga dua sopir baku marah
+461;kalimat;Rimu pitek kelereng mogang ogor na'an wi'in;Mereka main kutik kelereng berguling saling kena mengena
+462;kalimat;Mo'an tia moro mole roga ngawung na'a nolar wawa tana;Bapak itu marah dan membuang barang-barang berhamparan di tanah
+463;kalimat;Du'a Sika serwisu gete, teteng ploung neing mitang merang du na'a nilar e'i leang;Ibu-ibu Sika luar biasa terampil menggantung benang ikat berhamparan di tempat gantungan
+464;kalimat;Besi nimun wuang du na'a nolar;Labunya berbuah banyak berhamparan
+465;kalimat;Lopa deri iger siger ko, deri ala na'ar;Jangan duduk berdempetan tetapi duduk agak renggang
+466;kalimat;Nimu na'ar le'u pare wori nei e'i oha;Dia mengedar tipis-tipis padi yang dijemur di tikar
+467;kalimat;Ra'ik me nurak due inat diri nora naing, iana newang raintang naing na'ar ko e'on;Kalau anak bayi tidur, mamanya mengamati nafas anaknya untuk mengetahui anaknya asma atau tidak
+468;kalimat;Nimu naba jarang loning lilang rakang;Dia memukul kudanya kuat-kuat karena terlalu liar
+469;kalimat;Nimu dola naba met da'a bowo towek sawe;Dia memukul anaknya kuat-kuat sampai bengkak-bengkak
+470;kalimat;Kena amang gang go'is naba ga ara pigang muok telu, da'a menu du hena poi;orang itu makan rakus sekali menghantam tiga piring nasi yang tinggi menggunung, sampai kekenyangan
+471;kalimat;Kena inang nuji lensu du babor nabor di dewa wi'in;Nona itu menyulam sapu tangan sembarangan itupun disiar-siarkannya
+472;kalimat;Ratu Sika nadar gai bahar;Raja Sika memegang tongkat emas
+473;kalimat;Nimu gegung ene belung nadar ene pla'ar;Dia menggenggam tak melepaskan, memegang di tangan tanpa terbuka
+474;kalimat;Ami pra nimu nadong;Kami tanya dia menganggukkan kepala
+475;kalimat;Nimu nadong poi ko ene tutur wa ha golo di e'on;Dia hanya mengangguk tetapi tidak bicara satu katapun juga
+476;kalimat;Nimu deri nidong nadong poi ganu ata ngangang;Dia duduk mengangguk-anggukkan kepala seperti orang tolol
+477;kalimat;Me blutuk lebe woko wula weta 'au nidong a'u nadong;Anak-anak bermain bekicot dan berkata bekicot coba kamu mengangkat tinggi kepala sayapun mengangguk-angguk
+478;kalimat;Me blutuk lebe woko wula-wula 'au nidong a'u nadong;Anak-anak bermain bekicot dan berkata bekicot coba engkau mengangguk-angguk sayapun mengangguk-angguk
+479;kalimat;Nimu bano neak golo, ita naha ha'u;Dia jalan amat pelan, kita mesti ajak cepat
+480;kalimat;Nimu kantar neak nora lung huk nora inat mate nane ba'a;Dia menyanyi pelan dan mencucurkan air mata, mengenang mamanya yang sudah lama meninggal
+481;kalimat;Rang Sika neak nojok;lagu Sika pelan dan mengharukan
+482;kalimat;Du'a Ola ngaji neak nojok beta Quamodo in tera adorai meu Maria viria gendo rozario da minha Sinhora;Ibu Ola berdoa pelan dan mengharukan dengan menyebutkan Quomodo in tera adorai meu Maria viria gendo rozario da minha Sinhora
+483;kalimat;E'i Hewokloang norang olang pireng narang Naga Watu Bura;Di Hewokloang ada suatu tempat angker bernama Naga Watu Bura
+484;kalimat;Naga Watu Bura;Naga batu putih
+485;kalimat;Naga ata ita du waeng-waeng etia naga manu, naga ahu, naga jarang;Naga kelihatan dalam rupa-rupa bentuk, seperti naga ayam, naga anjing, naga kuda
+486;kalimat;Norang ngaji neni not ha tora naga ganu tei O ina naga, ina lau naga natar lau Kei Tana Timu;Ada doa permohonan kepada naga sebagai berikut : O Ibu naga, ibu di perkampungan naga, di Kei kawasan timur
+487;kalimat;Bendi 'aun mang pira pasak naga tilung pitu lahing da'a na'a pitu;Berapa pucuk senapanmu menembak naga bertelinga tujuh sehingga berluka tujuh
+488;kalimat;Norang utang Sikka narang utang naga lalang ata biasa moga weta naga lalang wiwir mitang;ada sarung ikat Sikka benama naga lalang yang disebut sarung jalan naga
+489;kalimat;Jong le Nusa Toda naga lalang pari balong, uring kelang naga, wa’eng nagasawaria;kapal di Nusa Tonda jalan naga bolak balik buritan berlukis naga, haluan berlukis naga dan phyton
+490;kalimat;O ina naga ina lau naga natar lau Kei Tana Timu;oh, ibu naga ibu di perkampungan naga Kei kawasan Timur
+491;kalimat;Naga ahu we'or tobong tadang hemu;naga anjing yang berekor buntung pertanda buruk
+492;kalimat;Naga jarang plari bla'ang ganu wi horo;naga kuda berlari cepat seperti terbang
+493;kalimat;Ata weta kasang-kasang ata rena naga manu koko hek;dikatakan orang kadang-kadang dengar naga ayam berkokok-kokok
+494;kalimat;A'u nager le'u kabor ongeng ha weli nimu;saya serahkan kepadanya satu kebun kelapa
+495;kalimat;'Au naha deri oring moga lopa bano tekong poi;kau harus tinggal di rumah juga jangan jalan kemana-mana saja
+496;kalimat;Ra'ik rimu rewang a'u di naha;kalau mereka bisa saya juga harus
+497;kalimat;Ra'ik bano blawir naha meti nora nalung;kalau jalan jauh harus bawa dengan bekal
+498;kalimat;'Au naha golo, ene lee;kau harus tidak boleh tidak
+499;kalimat;Nahing lepa du'ur e'i bakut tia dena ikot api;lepaskan daun kelapa kering dari pelepahnya untuk membuat api
+500;kalimat;Nimu nahing kabor dena meluk iana wuang rinang benu;Dia membersihkan pohon kelapa supaya berbuah tandan penuh
+501;kalimat;Ena ama a'un gera tati nahing kabor, mude, aja;hari ini ayahku membersihkan pohon kelapa, limau, jagung
+502;kalimat;Bunga le ia inang tati nahing dena weru dang pu'ang;bunga disana dirawat oleh ibu, untuk memperindah tangga rumah
+503;kalimat;Me du'a aming ami jaga plamang, tati nahing dena sareng beli lepo ko ra'ik tibolameng lodong le'u ba'a te na sareng beli ata lepong wogang;anak gadis kami, kami rawat dan jaga untuk mencerahkan keluarga, tetapi kalau sudah dijemput pemuda (suami) nanti, ia akan mencerahkan keluarga suaminya (keluarga lain)
+504;kalimat;Pigang makok a'u na'i nora epang;piring mangkok saya taruh dengan baik
+505;kalimat;Na'i le'u surat 'aun ra'ik eskola balong;simpan bukumu kalau kembali dari sekolah
+506;kalimat;Goa lopa sawe, na'i beli nora a'un kesik ha;jangan makan habis, sisakan untuk saya sedikit
+507;kalimat;Nimu na'i mekot pakiang nimun e'i kobar;dia menyimpan pakaiannya baik-baik dalam wadah anyaman dari lontar
+508;kalimat;Na'i mekot epang-epang ngewi nenang 'aun ra'ik ilang ma toma epae walong;simpan barang perhiasanmu baik-baik, kalau hilang dapat dari mana lagi
+509;kalimat;Na'o norok tia du'a pu mo'a nimun na'i neper ne'i;mencuri itu diwariskan oleh nenek moyangnya
+510;kalimat;Naha goa nora na'i, ama 'aun ngawung balik e'on odi na'i neper bali 'au apa?;makan harus dengan simpan, ayahmu tidak mempunyai harta kekayaan, nanti mewariskan untukmu apa?
+511;kalimat;Nimu na'i 'wateng nora a'u loning a'u banto le'u me a'un du'a nora me nimun la'i;dia menaruh dendam terhadap saya karena saya batalkan pertunangan antara anak gadis saya dengan anak laki-lakinya
+512;kalimat;Huwur le'u naruk tia reta uwung, mole lopa na'i wateng;taruh hal itu di ubun-ubunmu lupahkan saja dan jangan simpan dendam
+513;kalimat;Rimu lebe dadu na'ing wi'in hoang bara;mereka bermain dadu bertaruh dengan uang perak
+514;kalimat;Ena ene urang, na'ing wiit nora hoang;hari ini tidak hujan, bertaruh dengan uang
+515;kalimat;Na'a a'un na'ing beli wine a'un lorung;bibi saya menenun awal untuk saudari saya
+516;kalimat;A'u tutur nai ha di dugar, lopa da'a nai telu;saya omong satu kali juga cukup, tidak perlu tiga empat kali
+517;kalimat;Ra'ik ga'i toma hala nimun 'au odi nai ha;kalau engkau mau dapat kesalahannya, kau akan mengalami kesulitan
+518;kalimat;Ami tota mora nimu nai ha, ko nimu tesu wi'in;kami cari dia setengah mati, tetapi sembunyi di dalam rumah
+519;kalimat;A'u wo naing rehi, beler rakang;saya tidak bisa bernapas, karena terlalu capai
+520;kalimat;Ata blarang naing laeng ko rimu tani ata ba'a;orang sakit masih bernafas tetapi mereka sudah menangis
+521;kalimat;Rimu ruang wai la'i wi'in naing poi;mereka berdua melakukan hubungan suami isteri sudah banyak kali
+522;kalimat;Biäng naing blong ganutia au ra'a mewang ko ?;orang bernafas panjang begitu dapat kau tangkapkah ?
+523;kalimat;Kena amang naing blong luring jarang;dia mempunyai nafas panjang dan tulang kuda (mempunyai daya tahan luar biasa)
+524;kalimat;'Au menang rehi, nimu naing blong rakang;kau tidak dapat menang, dia mempunyai daya tahan yang kuat
+525;kalimat;Nimu naing buluk, poi geta mekot ene ga da'a;dia bernafas pendek (berumur pendek), hanya sampai habis panen, tidak dapat menikmati hasil kerjanya
+526;kalimat;Mo'ang tia naing dunang liwa rua ba'a;bapak itu menderita asma (sesak nafas), sudah dua tahun
+527;kalimat;Ra'ik a'u naing dunang te odi ene ita me pu a'un da'a lape rua;kalau saya nafas pendek maka saya tidak dapat melihat anak cucuku sampai dua lapis
+528;kalimat;Tue tora ata naing sak, ita ene nolek;tidur dengan orang bernafas bunyi-bunyi kita tak dapat nyenyak
+529;kalimat;Ra'ik ita moret laeng naing itang di moret;kalau kita masih hidup nafas kita juga hidup
+530;kalimat;Bi'ang nair duwur gu'a serwisu ene setung;orang malas, melakukan pekerjaan tidak tetap
+531;kalimat;Ui naing ngantang ganu 'au ami depo rehing;kerja sekaligus seperti engk'au kami tak dapat ikuti
+532;kalimat;Nimu gele loeng ba'a ko naing gahu laeng;dia sudah dalam gelisah m'aut tetapi nafasnya masih panas
+533;kalimat;Moling naing gahu tia dola ukung met gumang lerong;bapak pemarah itu memukul dan menghukum anaknya tiap hari (malam-siang)
+534;kalimat;Tibulameng naing gahu ita naha mengerti mole sabar gawang;pemuda yang hidup-hidup kita harus mengerti (memahami) dan banyak sabar
+535;kalimat;Me 'aun naing na'ar, naha plea ropo;anakmu asma, harus diobati segera
+536;kalimat;U'a uma naing namar ganutia poi Lado amang;kerja tanpa henti begitu hanya Lado yang bisa
+537;kalimat;Babong naing plata poi waibu'ang tibolameng;bicara terus menerus hanya muda-mudi
+538;kalimat;Pare aming naing rakang;padi kami bertumbuh sangat subur
+539;kalimat;Nimu na lako ami naing poi;dia sering kali datang mengunjungi kami
+540;kalimat;Nimu blara naing poi;dia sakit terus menerus
+541;kalimat;Nimu mate nang naing tawa laeng;dia mati muda
+542;kalimat;Ata nibong naing tawa ra tekeng serdadu;Orang muda batang-batang mendaftar untuk menjadi tentara
+543;kalimat;Pigang watung losi ha naing natang nora edo gete;piring batu satu lusin sedikit retak waktu gempa besar
+544;kalimat;Lopa beta naing narang nimun, nimu odi moro;jangan sebut-sebut namanya, dia akan marah
+545;kalimat;Ami ene raintang na'ing narang nimun kesik ha di eöng;kami tidak tahu sedikitpun namanya (kami tidak mengenalnya sedikitpun)
+546;kalimat;A'u gaf kela weli nimu surat ko ene raintang na'ing narang nimun;saya mau tulis surat untuk dia tetapi tidak mengenal namanya sedikitpun
+547;kalimat;Nimu naha na'ing amat doe ala itang;dia harus menggantikan ayahnya berkuasa atas kita
+548;kalimat;Tutur tatar, gu'a dena na'ing amat demeng;bicara dan tingkah lakunya persis ayahnya
+549;kalimat;Epang rimun du na'ing nalung;kebaikan mereka terwaris (suatu warisan)
+550;kalimat;Nimu bengu renges (s) na'ing nalung;Dia muka masam-masam (sifat pemarah) dari warisan (terwaris)
+551;kalimat;Ati oa nair;saya bosan makan
+552;kalimat;Nimu bano nair;dia tidak suka jalan
+553;kalimat;A'u rena nair sai mera waung;saya rasa sakit-sakit mulai tadi malam
+554;kalimat;Nimu nair dumur lee gu'a;dia amat bosan (malas) tidak mau kerja
+555;kalimat;Liwa ha ba'a tebo a'un nair dumur poi;sudah satu tahun badanku rasa sakit-sakit saja
+556;kalimat;Nimu hae iling hopang du ngakak (nakak) poi;dia mendaki gunung dan bernafas pendek-pendek (tersengal-sengal)
+557;kalimat;Ami gea nakat daha;kami makan nangka masak
+558;kalimat;Nakat wereng gawang e'i Bei nara;nangka wereng banyak di Bei Nara
+559;kalimat;Ra'ik tung wua ta'a gete, ata witi nakat wereng nora nakat wadang e'i kopor;kal'au ada urusan adat hantar sirih pinang besar-besaran diisi juga dalam pondok pengantin nangka besar (wadang dan wereng)
+560;kalimat;Ama a'un nana nako dena na'i wa'ang ra'ik gera noti;"ayah saya menganyam tempat angkut ""Nako"" untuk mengangkut rumput bila sedang menyiangi ladang"
+561;kalimat;Nimu bihi sayur e'i nako na teii l'au regang;"dia mulai mengisi sayur di ""nako"" dan pergi menjualnya di pasar"
+562;kalimat;A'u tea ohu ai nako ha;saya jual ubi kayu satu bakul terbuka
+563;kalimat;Nimu nala pena na kela;dia mabil pena pergi menulis
+564;kalimat;Hai nala pena na kela;siapa ambil pena pergi menulis
+565;kalimat;A'u ala pena 'a kela;saya ambil pena pergi tulis
+566;kalimat;'au mala pena ma kela;kau ambil pena pergi tulis
+567;kalimat;Nimu nala pena na kela;dia mabil pena pergi tulis
+568;kalimat;Hai nala pena na kela;siapa ambil pena pergi tulis
+569;kalimat;Ami mala pena ma kela;kami ambil pena pergi tulis
+570;kalimat;Ita tala pena ta kela;kita ambil pena pergi tulis
+571;kalimat;Miu mala pena ma kela;kamu ambil pena pergi tulis
+572;kalimat;Rimu lala pena ra kela;mereka ambil pena pergi tulis
+573;kalimat;Ata lala pena ra kela;orang ambil pena pergi tulis
+574;kalimat;Mala pena ma kela;ambil pena pergi tulis
+575;kalimat;Mala sai pena ma kela;ambil sudah pena pergi tulis
+576;kalimat;Lopa mala pena ma kela;jangan ambil pena pergi tulis
+577;kalimat;Ra'ik go'ang utang, naha golo paket ai nalar rua tena atur lorung gerang nimung reta wutu ko wawa une;kalau merentang benang lungsin perlu sekali digunakan dua ai nalar untuk mengatur benang lungsin di atas satu dibawah satu
+578;kalimat;Nimu geru ai nalar rua, wait ga'i go'ang lipa;dia meraut dua ai nalar istrinya mau merentangkan benang pakan
+579;kalimat;Rimu lebe roga gelo dadi nalar le'u ha-ha e'i peli wikir, hai roga da'a mole gelo ela nimu menang;mereka main lempar kemiri jadi kemiri diatur berjejeran (bersampingan) pada sebilah bambu siapa lempar kena dan kemiri jatuh dia yang menang
+580;kalimat;Reging rema gelas, pigang makok doi-doi kenaha nama ganutia odi bitak ropo;angkat dan taruh gelas, piring, mangkuk, cangkir pelan-pelan, alat-alat tipis begitu rapuh dan mudah pecah
+581;kalimat;A'u ene inu tua, atï inu namak poi wair;saya tidak minum arak puas hanya dengan air minum
+582;kalimat;Nimu na le Nele nale Koting;dia pegi ke Nele, mengikuti Jalan Koting
+583;kalimat;Au natu nale (k) nane a'u (s), lopa nimu;kau kirim melalui saya saja, jangan melalui dia
+584;kalimat;A'u natu nale aja, pare werang eöng;saya kirim jagung saja, tidak ada beras
+585;kalimat;Natu nale hai, au ko nimu;siapa yang akan diutus engkau atau dia
+586;kalimat;Ami bano blawir ko ene meti nalung;kami jalan jauh tetapi tidak bawa bekal
+587;kalimat;Ami nalung tupat;kami bekal ketupat
+588;kalimat;Rimu tia gowa pani du naing nalung;mereka itu melakukan perbuatan cabul seperti terwaris
+589;kalimat;Epang wohong rimun du na'ing nalung;kebaikan mereka memang terwaris
+590;kalimat;Rimu lebe bobu e'i namang gete;mereka mementas permainan topeng dilapangan besar (umum)
+591;kalimat;Sika limang Baomekot, wutung Sika namang Jawa, namang Jawa wae reta, wutung Sika wae lau;kampung Baomekot adalah perpanjangan tangan Sika, kampung dengan pengaruh Lamaholot di bagian atas, dengan pengaruh Sika bagian bawah
+592;kalimat;E'i Sikka norang olang narang Namang gete;di Sikka ada tempat bernama Namang gete atau perkampungan luas
+593;kalimat;Ata soka e'i namang gete;orang menari dilapangan luas di tengah kampung
+594;kalimat;Rimu teri e'i namang gete;mereka menghuni sekitar lapangan yang luas
+595;kalimat;E'i namang woer ata ene pete jarang ko wawi wi'ing poi tena me blutuk lebe, taji manu, oba gong waning, soka toja;di halaman luas kampung orang tidak ikat kuda, babi, kambing hanya untuk tempat bermain bagi anak-anak, sabung ayam, tempat mengiramakan gemelan, tempat tari dan tandak
+596;kalimat;Wawi namang ga ama denak rua;babi makan makanannya habis dua tempat makan
+597;kalimat;Rutung namang ga besi wuang sawe petik;landak menyapuh bersih buah labu
+598;kalimat;Tibolameng hanei rinu tua mole ngamang a le'u wawr role molu lurung blatang;anak-anak minum arak dan menyapuh bersih daging masak dan kuah dingin
+599;kalimat;A'u oa;saya makan
+600;kalimat;'au goa;kau makan
+601;kalimat;nimu ga;dia makan
+602;kalimat;hai ga;siapa makan
+603;kalimat;ami gea;kami makan
+604;kalimat;ita ga;kita makan
+605;kalimat;miu gea;kamu makan
+606;kalimat;rimu a;mereka makan
+607;kalimat;ata a;orang makan
+608;kalimat;ha'i-ha'i 'a;siapa-siapa makan
+609;kalimat;Ma'i ge'a;mari makan
+610;kalimat;Lopa ge'a;jangan makan
+611;kalimat;Ge'a e'un;makanlah
+612;kalimat;ge'a sa'i;makanlah
+613;kalimat;Namar beli ali tali. a'u lahi le'u oti dagir rakang;bantu saya tarik tali pelan-pelan, saya buka dulu karena terlalu berbelitan
+614;kalimat;Do namar beli a'u gurung tia, a'u ga'i koeng le'u;ulurkan benang itu bagi saya, saya mau menggulungnya kembali
+615;kalimat;Jarang taling tia gide namar doi-doi, jarang lilang tia odi ngoro benu au;tarik tali kuda itu pelan-pelan, kuda itu liar nanti dia menyeret engkau
+616;kalimat;Molo nimun gewong kawit lose ba'a, ko loning ide namar wiri wana dadi laeng temang poi;sebenarnya pesta kawin sudah lewat (selesai) tetapi karena dua belah pihak menunda-nunda maka belum juga usai
+617;kalimat;Miu nehek namar ganutia, naruk tia teong ne'i poi;Kalian suka-suka tunda sekian, hal itu akan tergantung saja
+618;kalimat;'Ata Nita nehek namar rakang dadi ata hoöt lora rimu ganu negeng Nita;"orang Nita suka menunda-nunda, sehingga dijuluki nama ""negeng Nita"" berarti Nita yang suka terlambat (menunda-nunda)"
+619;kalimat;Du'a du'a lima namit seng kapa;lima ibu bergotong royong membersihkan kapas
+620;kalimat;Nimu ene bano e'i regang loning lipa nimun nimu biha namit le'u loning moro;dia tidak pergi ke pasar karena dia sudah merobek kainnya karena marah
+621;kalimat;Ahu amin gii biha namit lei widing nimun;anjing kami gigit sambil menarik kambingnya
+622;kalimat;'Au lopa male e'i bali, ahu aming bait nurak odi biha bidar namit benu au;kau jangan lewat di tempat ini, anjing kami baru beranak nanti dia gigit, menarik dan menyeret engkau
+623;kalimat;Iang ita namuk lolo lait tama weda e'i watu oto robong;ikan laut kecil-kecil berenang keluar masuk di lubang-lubang batu karang
+624;kalimat;Nimu nana oha koli (oha reta);dia menganyam tikar daun lontar (daun pandan)
+625;kalimat;Nimu nana oko kirek;dia menganyam tempat sirih yang berbunga-bunga
+626;kalimat;Nimu na-na ga'i na-na lee;dia kadang-kadang mau kadang-kadang tidak mau
+627;kalimat;Nimu na-na bo'u na-na eöng;dia kadang-kadang datang, kadang-kadang tidak datang
+628;kalimat;a'u na-na ita kena amang, na-na eöng;saya kadang-kadang lihat orang itu, kadang-kadang tidak lihat
+629;kalimat;Oha nanang tia biha nang;tikar yang dianyam itu sudah robek
+630;kalimat;Lahing 'aun nanang wauk;lukamu bernanah busuk
+631;kalimat;Ami tota koja nanang ga'i demu pare;Kami kumpulkan nanah kental pohon kenari untuk mengasapi padi
+632;kalimat;Nimu tota damar nanang (damar me'ing) dena lemut wang;dia mencari damar getah untuk berkumur
+633;kalimat;Ami bui nane ko nimu ene bo'u;Kami tunggu lama tetapi dia tidak datang
+634;kalimat;Rimu wui nane ko 'au ene bo'u te rimu pano rang poi;Mereka tunggu lama tetapi engkau tidak datang sehingga mereka berangkat saja
+635;kalimat;Mate nane a'u 'au loa;Lebih baik saya yang mati, engkau jangan
+636;kalimat;Goa nane ara, ohu ai loa;Makan nasi saja, ubi kayu jangan
+637;kalimat;Goa nane ihing wura etang larang, ami meing ba'is etang belar;Makanlah daging yang nikmat, gemuk yang sehat, kami orang dengan daging pahit, dendeng kesat
+638;kalimat;Nimu bano jolong nane ha ba'a;dia pergi merantau sudah agak lama
+639;kalimat;A'u wui nane ha da'a nimu lohor e'i jong;saya tunggu cukup lama sampai dia turun dari kapal
+640;kalimat;Ami mogang gera babong nane nowang e'i lalang klageng Hepang;kami berdiri bercakap-cakap sangat lama di jalan cabang Hepang
+641;kalimat;A'u wui rehi au nane owang rakang te pano ang wawa Batik Wair;Saya tunggu engkau tidak bisa sangat lama sehingga saya pergi ke Batik Wair
+642;kalimat;Ra'ik 'au ene jaga memung nane-nane ata ra'a tola au;kalau engkau tidak jaga mulut lama kelamaan orang akan tangkap pukul engkau
+643;kalimat;Ra'ik 'au ene selung modung, ropo nane au odi toma susar;kalau engkau tidak merobah sifat, cepat atau lambat engkau akan dapat susah (kecelakaan)
+644;kalimat;'Au ga'i ha te'i ko ha pae so nane ha pehang te a'u ga'i;engkau mau (pilih) yang ini atau yang mana? Kalau yang lain saya mau
+645;kalimat;'Au ga'i mora Bonsu ko Priseja, so nane Esperasa a'u ga'i;engkau mau (pilih) Nona Bonsu atau Priseja, kalau Esperasa justru itu yang saya mau
+646;kalimat;Lopa odo Kleruk, odo nane a'u poi;jangan suruh Kleruk, lebih baik suruh saya saja
+647;kalimat;Nane 'au ho rehi;justru kalau engkau tentu tidak bisa
+648;kalimat;Lopa mogang nuhu wi'in, epang to'i nane wi mogang megu wi'in;jangan bermusuhan, lebih baik berbalik sayang saja
+649;kalimat;Nimu bano nang le Napung Na'o;dia jadi pergi ke Napung Nao
+650;kalimat;Nimu due nang;dia (jadi) tidur
+651;kalimat;Lampung bere nang;lampu terpadam (jadi padam)
+652;kalimat;Nimu guru nang ba'a;dia sudah jadi guru
+653;kalimat;Jarang lubak nang ba'a;kuda sudah jadi dibeli
+654;kalimat;Tahi blino nang ba'a;laut sudah jadi teduh
+655;kalimat;Ina a'un no nang nora ga'i mate, kamang ami megu wi'in poi;ibu saya berpesan ketika hampir mati agar kami saling mengasihi
+656;kalimat;Nora no nang sawe mo'ang Ratu naing plepar nang;ketika selesai menyampaikan amanatnya, Tuan Raja menghembuskan nafas terakhir
+657;kalimat;No teong nang beleng;berpesan dengan memberikan amanat yang baik
+658;kalimat;Ina amin no teong ama amin nang beleng, ko ami blutuk anjo ngangang hulir le'u gawang moga;ayah bunda kami berpesan dan mengamanatkan yang baik-baik, tetapi kami anak-anak melekat bodoh melupakan cukup banyak
+659;kalimat;Ina a'un no teong no nira nora ilur - ama a'un nang beleng nang nga'uk nora eer;Ibuku berpesan dengan air liur - bapakku berpesan dengan air ludah
+660;kalimat;Naruk ina ama nang nape ne'i, ita naha egung ene welung;apa yang dipesan orang tua untuk diwariskan (sebagai warisan) harus digenggam tanpa dilepaskan
+661;kalimat;'Ipung tama nanga;ikan halus (kecil) masuk muara sungai
+662;kalimat;Ami ma ra'a ipung le nanga;kami pergi menangkap ikan halus di muara sungai
+663;kalimat;Olang Batik Wair tama tahi e'i Lela ene narang nanga, ko wair waing;Tempat Batik Wair masuk laut di Lela tidak disebut muara tetapi disebut kaki sungai (seperti langkah terakhir untuk masuk laut)
+664;kalimat;Gro'o Lela norang olang ha narang Nanga, pae wair Nangablo tama tahi;dekat kampung Lela ada tempat bernama nanga yaitu tempat sungai nangablo masuk laut
+665;kalimat;Ata Nita nuba nanga rimung, lau pena tokang;pantai orang Nita di Pena Tokang
+666;kalimat;Nuba wura ganu wawi, nanga larang ganu iang;pantai berlemak seperti daging babi, muara lezat seperti daging ikan (Dimaksud: Ulayat pantai dengan hak ulayat dan hak tunggal untuk menangkap ikan, masak garam dll)
+667;kalimat;Loning brau lora ata toma Nong Didi nora Nona Benta babong na'o e'i kabor dogong;karena takut kedapatan Nong Didi dan Nona Benta bercakap curi-curi dibalik pohon kelapa berbatang bengkok
+668;kalimat;Mo'ang tia lee nora me blutuk tani tepo, dadi nimu bano na'o poi;bapak itu tidak mau nak-anak menangis ikur, sehingga dia jalan curi-curi saja (menghilang secara diam-diam)
+669;kalimat;Nimu gera dena ene raintang ko ni'a na'o nora du'a hene'I tama greja;dia berdiri pura-pura tidak tahu tetapi melihat curi-curi kepada para gadis yang masuk Gereja
+670;kalimat;Kena amang tia na'o humang, bihing wait bekat meng nane na'o norok poi;orang itu suka mencuri, menjamin kehidupan anak istrinya dengan mencuri saja
+671;kalimat;Rimu pano lora dirang leeng tia bi'ang nao humang;mereka yang berjalan dengan senjata tajam itu orang yang suka mencuri
+672;kalimat;Gumang-gumang ene hala nimu na na'o ramang e'i oring - oring;tiap malam tanpa kecuali dia pergi mencuri di rumah-rumah
+673;kalimat;Ama a'un dopo nao a'u, lopa pano blawir;ayahku panggil dan menasihati saya, agar jangan jalan jauh
+674;kalimat;Guru na nao doneng ata naruk agama gumang-gumang;guru pergi mengajar orang tentang agama tiap malam
+675;kalimat;Eie nimu menung balik, ko amat naok ata ngawung gete;sekarang dia kaya tetapi ayahnya mencuri harta karun orang
+676;kalimat;Nimu tutur nale rugi poi rugi poi, ko hoang egung benu, naok ata ngawung gete;dia mengatakan rugi terus menerus tetapi uang penuh di genggaman, karena mengorupsi barang orang
+677;kalimat;'Au ata ina naha nao doneng me 'aun du'a;kau seorang ibu harus menasihati anak-anak perempuanmu
+678;kalimat;Mo'ang nokerua gawi napung pot wolong na nao doneng dena deba dak naruk agama;imam masuk lembah melintasi bukit pergi mengajar dan menyebarkan agama
+679;kalimat;Ami nao lami nimu nora dugar, ko nimu ene krota nora;kami menasihati dia dengan sungguh-sungguh, tetapi dia tidak menghiraukan
+680;kalimat;Ami nao harang nimu nora dugar, ko nimu ene diri neti;kami awasi dia dengan cukup, tetapi dia tidak mendengar untuk bawa serta
+681;kalimat;Ami tutur beli me blutuk nao noang ina la'u;kami menceritakan untuk anak-anak dongeng tentang ibu bajing (bajing betina)
+682;kalimat;Ami tutur nao doneng nimu ganu nao noang, ko nimu kusing tilung otek e'on;kami menasihati dia seperti cerita dongeng, tetapi dia tutup telinga, tidak ada otak
+683;kalimat;Ai na'u roung heret ita naha tota olang pehang, eba'un ene norang;pohon nau berdaun kuning mesti cari ditempat lain, disini tidak ada
+684;kalimat;Ulit nimun heret ganu bahar nau;kulitnya kekuningan seperti warna kuning mas muda
+685;kalimat;A'u ji'ang de'a ko nimu bego du na'u ne'ar;saya bentak main-main tetapi dia sangat kaget
+686;kalimat;Naruk tia a'u tutur 'weli nimu du na'u ne'ar ko nimu bube hulir; hal itu saya bicarakan dengan luas tetapi dia pura-pura lupa
+687;kalimat;Lopa na'u negar rakang 'ata blarang tue nolek;jangan terlalu ribut orang sakit tidur nyenyak
+688;kalimat;Nora oras wutung tosi, troempet ling du na'u negar mole ata bekor nete kewo;pada hari terakhir terompet akan berbunyi ribut-ribut dan orang bangkit dari segala kubur
+689;kalimat;'Au nane naung jajong poi mora me blutuk;engkau hanya mengancam-ancam terhadap anak kecil
+690;kalimat;Bano lopa blagu na'ung;jalan jangan ribut-ribut
+691;kalimat;Nimu dena wi'in du ni'o na'on ko 'ata 'ene tena konta;dia banyak mengada-ada tetapi tidak ada orang yang menghiraukan dia
+692;kalimat;A'u 'ni'a du'a Sika ni'o na'on rakang ra'ik ra sambot, legur lajang utang dong, kau ra'ut lora kalar gelang, mole lalang liong;saya lihat ibu-ibu Sika repot sekali kalau pergi sambut, mengebas-ngebas sarung selempang, membunyikan gelang gading dan gelang perak (ditangan), memperhatikan diri dengan teliti
+693;kalimat;Nimu tahang blatang rehi loning napar gete da'a;dia tidak bisa tahan dingin karena terserang asma keras
+694;kalimat;Du'a bi'a rua tia nape utang terang, era punu tau wi'in;dua ibu itu ikat sarung kuat-kuat di pinggang berdiri bertengkar dan berkelahi
+695;kalimat;Mu'u olang napeng-napeng loning wair gawang;batang pisang mempunyai banyak lapisan yang sejuk karena mengandung banyak air
+696;kalimat;Napeng 'aun biha loning gung ba'a;sarungmu robek karena sudah tua
+697;kalimat;Liwang te'i a'u toma bako poi napeng ha;tahun ini tembakau iris saya hanya satu lapis
+698;kalimat;A'u pano napu lau ang poi;saya jalan menyusuri lembah
+699;kalimat;Ra'ik napu reta mung 'au odi gita ara gete pu'a ha;kalau jalan menyusuri lembah terus ke atas engkau akan melihat satu pohon ara besar
+700;kalimat;Napung tia ata ene pano loning watu gawang mole 'lohor lemang rakang;lembah itu tidak dilalui orang karena berbatu-batu dan terlalu turun naik
+701;kalimat;Olang tia narang napung Sipi;tempat itu bernama Napung Sipi (lembah Sipi)
+702;kalimat;Ami hae wolong lore napung leba ruha;kami naik bukit turun lembah berburu rusa
+703;kalimat;Nara a'un wut wutung;saudara laki-lakiku bungsu dari wanita
+704;kalimat;A'u bi'ang hawuang, noeng nara nora ama;saya wanita sendirian, tidak mempunyai saudara dan ayah
+705;kalimat;Mera waung ami ma nara ata mateng lau Rane;tadi malam kami pergi mete orang mati di Rane
+706;kalimat;Waung te'i ata nara krus mateng Samuel;malam ini orang mete terakhir untuk tanam salib kematian almarhun Samuel
+707;kalimat;Nora urang wang'ak gumang tia ami nara laeng;ketika hujan lebat malam itu kami masih berjaga (belum nyenyak)
+708;kalimat;Noeng amang tia nara a'un dolor, na'a 'su'ng met wua 'olo;Noeng itu saudara sepupuku, anak laki-laki sulung dari tantaku
+709;kalimat;Nimu nara a'un dolor ko dena nora a'u ganu wine nimun lu'ur;dia saudara sepupuku, tetapi memperlakukan saya seperti saudari kandungnya
+710;kalimat;A'u nara lu'ur 'e'on, poi nara dolor;saya tidak mepunyai saudara kandung, hanya saudara sepupu saja
+711;kalimat;Goleng tia nara a'un lu'ur ha wuang wutung;Goleng itu saudara kandungku yang bungsu
+712;kalimat;A'u tue nara poi, nolek rehi loning wari a'un blarang due ngiuk poi;saya tidur terjaga saja tidak nyenyak karena adikku sakit dan tidur mengerang saja
+713;kalimat;Goa ata ngawung ko matang nara;makan (pakai) barang orang tetapi harus selalu menyadari (waspada)
+714;kalimat;Nimu himo ling weling ko ene matang nara nora balas nimun;dia terima belis tetapi tidak menyadari imbalannya
+715;kalimat;Ami naha nara nogor jaga natar loning, ata na'o rakang, mole holo oring moga;kami mesti berjaga menjaga kampung karena selalu ada pencuri dan sampai membakar rumah
+716;kalimat;Mo'ang Sika tia narang Antoni;orang laki-laki dari Sika itu bernama Antoni
+717;kalimat;Ita ta na'o hama-hama ko narang gete poi a'u;kita sama-sama mencuri , tetapi yang dapat nama buruk hanya saya
+718;kalimat;Bertha te narang Sisko;saudara laki-laki dari Bertha ialah Sisko
+719;kalimat;Bertha narang poi bi'a ha golo;saudara dari Bertha hanya satu orang
+720;kalimat;Narang ngawung eang, nimu ene susar;mengenai bahan makanan, dia tidak susah
+721;kalimat;Narang hoang, nimu ene susar, loning nimu pegawe;tentang uang dia tidak susah, karena dia pegawai
+722;kalimat;Rimu narang derang loning epang wohong lora nete bi'ang;mereka masyur karena beramal kepada semua orang
+723;kalimat;Du'a Klowe narang derang loning nimu biasa lakang ata wua nurak;ibu Klowe masyur namanya karena dia selalu membantu ibu yang melahirkan (dukun beranak)
+724;kalimat;Nimu narang dewang loning bisa biha ular;namanya masyur karena dia sangat pintar/pandai
+725;kalimat;Nimu narang gahar loning menung balik mole nora pangkat;namanya masyur karena kaya dan berkedudukan tinggi
+726;kalimat;Nimu narang gahar 'e'i Nita loning biasa na'o mole bati ata;dia terkenal namanya di Nita karena biasa mencuri dan membunuh orang
+727;kalimat;Loning huma ata waing, nimu narang go'is da'a lerong ena;karena merampas istri orang, dia memperoleh/mendapat nama buruk hingga sekarang
+728;kalimat;Ami ruang narang leleng, nimu narang Sareng a'u di narang Sareng;kami berdua bernama sama, dia bernama Sareng saya juga bernama Sareng
+729;kalimat;He, narang lelet 'au pae mang?;he kawan senama, engkau kemana?
+730;kalimat;Sureng nora sareng ata narang lelet;sareng dan sareng adalah orang yang bernama sama
+731;kalimat;Heret ia narang selung narang nimun golo naha Bajo;heret itu nama yang diganti, namanya yang sebenarnya adalah Bajo
+732;kalimat;Du'i kesik selung narang dadi da wawi loning waeng rumang epang nang;ibu kesik berganti nama menjadi da wawi (babi) karena sembuh dari penyakit gila
+733;kalimat;Nimu bisa nete narang waeng;dia pandai dalam segala hal
+734;kalimat;Ami noeng nete narang waeng;kami miskin dalam segala hal
+735;kalimat;Maria Yesus inat, meluk nete narang waeng;Maria ibu Yesus, murni dalam segala hal
+736;kalimat;Meak narat te mo'ang Klo'a;saudaranya Meak bernama mo'ang Klo'a
+737;kalimat;Kubang tia narat, tua mo rakang;kumbang itu (tempayan) tiris, arak menetes-netes
+738;kalimat;Ra'ik do awu wair, wair awu naha narat;kalau menyaring air abu, air abu harus bertirisan
+739;kalimat;Nimu dani bong teng, lung dolo da'a peping narat nebong;dia menangis teriak-teriak, air mata meleleh sampai pipinya basah-basah
+740;kalimat;Ami nari nerang nane da'a tebong heak;kami beristirahat tenang-tenang lama sampai badan ringan
+741;kalimat;Ubang nari nerang epang naha 'e'i bao janang;tempat beristirahat yang baik, sebaiknya dibawah pohon beringin yang rindang
+742;kalimat;Rimu naruk wi'in da'a ata du'a mo'ang;mereka buat perkara sampai pengadilan adat (tua-tua adat)
+743;kalimat;Naruk tia naruk berat,naha ali abo pupu kewe le'u;masalah ini masalah berat, harus digali dan ditutupi dibelah dan disembunyikan
+744;kalimat;Miu babong boer wi'in naruk apa?;Kalian mempercakapkan hal apa
+745;kalimat;A'u ga'i tutur au naruk ha, ko naha tesu here;saya mau sampaikan kepadamu satu rahasia, tetapi harus sembunyi-sembunyi
+746;kalimat;Ami tutur mora naruk lalang aming;kami bicarakan hal ikhwal kami
+747;kalimat;Naruk lalang gawang ganu te'i naha tala ha-ha;hal-hal begini banyak harus diurus satu-satu (satu persatu)
+748;kalimat;Nasang rimu na'o humang, ata tadang lora ganu ata tena susar poi;model mereka orang pencuri, orang tanda mereka seperti jenis malaria bahaya
+749;kalimat;Ata Nita lora ata Koting nasang ngerang ha sai du'a pu mo'a;orang Nita dan orang Koting keluarga dari nenek moyang yang sama
+750;kalimat;Rimu nasang ha poi, ko ene wate ha;mereka dari satu keluarga saja tetapi tidak sehati
+751;kalimat;Ata Sika nora ata Nggela nasang ha wua poi;orang Sika dan orang Nggela berasal dari satu rumpun saja
+752;kalimat;Loning ene plea wi'in, lahing nimun dadi naser;karena tidak berobat, lukanya menjadi besar
+753;kalimat;Blara a'un dadi naser, loning plea ene song;penyakitku menjadi kronis, karena pengobatan dengan cara apapun tidak mempan lagi
+754;kalimat;Loning blara naser, nimu deri oring poi;karena penyakitnya kambuh lagi, dia tinggal di rumah saja
+755;kalimat;Ami minu tua nasu ata Lato te'a;kami minum tuak manis dijual orang Lato
+756;kalimat;Loning tua ming te'i ata Lato te'a, tua nasu ata weta moga tua Lato;karena nira manis ini dijual orang Lato, maka arak manis ini disebut juga arak manis Lato
+757;kalimat;Pigang natang ba'a, reging rema epang-epang;piring sudah retak, angkat taruh baik-baik
+758;kalimat;Telo perang daha te norang natang kesik-kesik;telur matang yang masak biasanya kelihatan retak-retak sedikit
+759;kalimat;Oras Natal ata Sika lebe bobu natar, ata Paga lebe bobu uta;waktu Natal orang Sika pentas tari topeng kampung, dan orang Paga pentas tari topeng hutan
+760;kalimat;Olang te'i narang natar Loar, loning ata ra teri e'i olang pehang;tempat ini disebut natar Loar atau kampung yang ditinggalkan karena penduduk mengungsi dan menghuni tempat lain
+761;kalimat;'Au eskola gete ge dena wi'in ganu ata natar;engkau tamatan sekolah tinggi tetapi bagaimana engkau bikin diri seperti orang kampung
+762;kalimat;Ami deri natar dadi ata natar, miu ma eskola dadi ata eskola;kami tinggal di kampung menjadi orang kampung, kamu pergi sekolah menjadi orang bersekolah
+763;kalimat;Ata weket Tuhan Yesus nora ai baing mole nati we'a moga;orang memukul Tuhan Yesus dengan kayu berduri dan besi berduri-duri juga
+764;kalimat;Ami natu surat beli nimu ko ene balas;kami kirim surat kepadanya tetapi tidak dibalas
+765;kalimat;Miu babong nane ganutia poi no natu naruk apa;kamu bercakap-cakap sekian lama menyampaikan pesan dan kesan apa ?
+766;kalimat;Ngawung natung tia au toma ko e'on ?;barang yang dikirim itu kau dapat atau tidak?
+767;kalimat;Ruang jaji le'u ba'a odi natu not wi'in ngawung;mereka berdua sudah berjanji akan saling mengirimi barang-barang
+768;kalimat;A'u na'u galat ba'a nimu naruk tia ko nimu hulir nang;saya sudah menyampaikan hal itu tetapi dia melupakan
+769;kalimat;Nimu nawang ata blarang;dia menjaga orang sakit
+770;kalimat;A'u pano nane di epang, wari a'un jaga nawang ina ama;saya pergi untuk waktu yang lama juga baik, adik saya akan menjaga (mengawasi) orang tua
+771;kalimat;Bale nawang;rumah jaga yang besar (suatu adat kebiasaan Jawa)
+772;kalimat;bale jaga;rumah jaga yang besar (suatu adat kebiasaan Jawa)
+773;kalimat;Lepo gete dang gahar, naha nora bale nawang;istana-istana harus mempunyai penjaga seperti lazim pada istana raja-raja Jawa atau tata kebiasaan
+774;kalimat;Ita pano bukang Mo'ang Ratu, ko Kapitang Mor naha nawang pita lepo ratu;kita jalan untuk mengawal raja tetapi Kapitan Mor harus mengawal istana
+775;kalimat;A'u nawar da'a lerong hutu golo;saya kena pilek empat hari memang
+776;kalimat;A'u teri reta une poi loning nawar da'a;saya tinggal dalam rumah saja karena (kena) pilek
+777;kalimat;A'u rasa wi'in ala heak loning nawar daha ba'a;saya rasa agak ringan karena pilek mulai hilang
+778;kalimat;Nawar linok;waktu pertama terserang pilek sehingga hidung bertiris-tiris ingus
+779;kalimat;Nawar nepet;pilek yang berat (hebat)
+780;kalimat;Nimu mate loning nawar nepet;dia mati karena terserang pilek berat (hebat)
+781;kalimat;'Au nawar teker lopa gera plirang e'i wina;hidungmu tersumbat karena pilek jangan berdiri makan angin di luar
+782;kalimat;Nawi tahi teok wi'in e'i watu oto;bekicot laut bergantungan di karang laut
+783;kalimat;Lopa gitu nawu roung odi gatar to'or;"jangan petik daun gatal ""nawu"" karena menyebabkan gatal-gatal"
+784;kalimat;Lahing e'i ukung nawu;luka pada bagian hitam bulat pada ujung buah dada
+785;kalimat;Ina a'un nawu le'u tawu beak;ibu saya menyambung piring labu yang retak
+786;kalimat;Ami gu'a ko nimu deri nboang poi;kami kerja tetapi dia melihat-lihat saja sambil bersandar
+787;kalimat;Nimu nbaeng nora keris bano enjor poi;dia membawa keris dan mengacau-ngacau
+788;kalimat;Wair mbaleng dadi anggur;air berubah menjadi anggur
+789;kalimat;Maha mbaleng bi'ang;budak menjelma menjadi orang merdeka
+790;kalimat;E'i wua kleruk mbao ha tia nimu lii galeng nane wua wair laeng beli du'a nimun;dari satu jejeran pinang mudah itu dia cari yang masih berair untuk neneknya
+791;kalimat;Lerong le'u soa mboang le'u;tali-tali berkulit pada ikan soa (jenis ikan besar, panjang)
+792;kalimat;Iang ha bo'er iang mbewa, ga'i beli le'u walong tota naha iang tebang;satu orang gunung membeli ikan kecil-kecil, mau kembalikan dan hanya mencari ikan tembang
+793;kalimat;Ra'ik ata mate ba'a 'au dopo ganupae poi di ene mbe'on;kalau orang sudah meninggal, engkau panggil bagaimanapun dia tidak akan tahu
+794;kalimat;A'u topo kesik poi ko nimu mbe'on raintang golo;saya panggil sambil lalu saja tetapi dia langsung tahu
+795;kalimat;Wulang mbewing ba'a;bulan sudah terletak miring
+796;kalimat;Ata paket moga wua mbiri tena a wua ta'a;orang gunakan juga pinang hutan untuk makan sirih pinang (untuk berpuan)
+797;kalimat;Api holo urung mole api olor mbu'ang wi'in dadi ladong;orang membakar padang rumput dan api menyala besar dan tinggi sampai merambat
+798;kalimat;Api ladong du mborang;api menyala besar-besar
+799;kalimat;Iang mboro ata toma gawang, te'a di gawang;orang menangkap ikan hiu besar, dan menjual juga banyak
+800;kalimat;Ata soge ndaing i'ang mole wori e'i leang;orang Ende menggarami ikan dan menjemurnya di penjemuran (tempat penjemuran dengan menggunakan bambu panjang dan kecil)
+801;kalimat;Ra'ik dara gete me lotik irung ndora;kalau musim kemarau panjang anak-anak akan mengalami, menderita penyakit hidung berdarah, mimisan
+802;kalimat;Ita pano ropo rehi ra'ik tale ne;kita tidak dapat berjalan cepat, kalau menyusuri pantai
+803;kalimat;Nimu ga mebu ta'ing du ne'a;dia makan kenyang dan perut naik (bertambah besar)
+804;kalimat;Gete reta nea reta, suping gete horang leder;makin besar makin naik (tinggi) tandan dan pangkal tandan berderet dan tandan berdekatan
+805;kalimat;Ra'ik nope roti, roti nea wi'in;kalau membakar roti adonan makin naik
+806;kalimat;Nimu dani gata neak nojok nora mate du'a Bura;dia meratap mengharukan pada kematian ibu Bura
+807;kalimat;Sara Sika, sara Nggela, sara Soge neak nojok rakang;logat Sikka, logat Nggela, logat Ende sangat mengharukan
+808;kalimat;Nimu dani ovos Neak nojok;dia membawakan lagu duka ovos, amat mengharukan
+809;kalimat;Nimu near pare, wori ne'i e'i woer;dia mengedarkan menjadi tipis jemuran padi di pekarangan rumah
+810;kalimat;Teri ala ne'ar iana sereng pigang mole ara lurung e'i waeng-waeng;duduk agak renggang supaya diedarkan piring dan makanan dengan porsi masing-masing
+811;kalimat;Nimu bepi ne'ar rebu dena roding;dia menempah besi untuk buat parang
+812;kalimat;'Au hena odi aja da'ing bepi ne'ar beli a'u;engkau goreng dulu jagung muda kemudian titih jadi pipih untuk saya
+813;kalimat;Gide tali lereng ne'et-ne'et, ko lopa esang odi beta;tarik tali kail panjang pelan-pelan, tetapi jangan tarik kuat-kuat nanti putus
+814;kalimat;Rimu to sele neger lora kena amang surat beli Helena Neang;mereka tertawa ribut-ribut dengan surat lamar dari seorang pria untuk Helena Neang
+815;kalimat;Me blutuk ko tibolameng tue nara du sele neger;anak-anak kecil dan anak muda tidur ribut-ribut
+816;kalimat;Catatan;Nimu sele neger rakang nora du'a nimun = dia terlalu repot melayani pacarnya
+817;kalimat;'Au bo'u bai negeng, ami ge'a le'u sawe ba'a;engkau datang agak terlambat, kami sudah makan habis
+818;kalimat;Negeng Nita, namar Rane;orang Nita gerak lamban, orang Rane bertele-tele
+819;kalimat;Loning ami negeng glet 'e'i 'oring, ami bo'u ata mateng abo le'u ba'a;karena kami bertele-tele di rumah, ketika kami tiba orang mati sudah dikuburkan
+820;kalimat;Loning bai negeng nehek, me du'a le'e nang;karena terlalu menunda-nunda, gadis tidak mau lagi
+821;kalimat;Ata du'a ha'u kawit, ko ata la'i neget bagit da'a banto;pihak wanita mendesak segera nikah tetapi pihak pria memperlambat, sehingga menjadi batal semua
