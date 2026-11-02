@@ -15,16 +15,6 @@ GATI is a mathematical initialization protocol designed to prevent "spatial coll
 
 By bypassing the "cold-start" recovery phase typical of random token initialization, GATI provides immediate semantic alignment. Based on the evaluation logs provided in this repository, at epoch 50, GATI achieves an average peak BLEU score of 14.22, compared to the random baseline's 9.46—a 4.76-point performance improvement.
 
-🔬 Unsuccessful Methodological Adjustments (MethodsX Transparency)
-
-In the spirit of methodological transparency, this repository also contains the evaluation logs for a failed intermediate method: Naive Mean Aggregation.
-In the initial phases of resolving subword fragmentation, we tested a raw arithmetic average of the shattered subword vectors without applying mathematical norm-scaling, hypothesizing it would provide sufficient semantic alignment. However, this adjustment proved unsuccessful. Because pre-trained vectors for diverse subwords often point in widely different directions, simply averaging them caused the resulting vectors to suffer from severe spatial collapse. The vector magnitude shrank drastically, pulling the new tokens out of the active embedding envelope.
-This failure directly necessitated the development of the norm-scaled transformation (GATI) implemented in this repository.
-
-⚙️ Usage
-
-(Note to authors: Provide a brief 2-3 step instruction here on how to run your main Python script, e.g., python inject_gati.py --model_name [MODEL] --new_tokens Sikka_tokens.txt)
-
 🤝 Acknowledgments
 
 This research was financially supported by the Indonesia Endowment Fund for Education Agency (Lembaga Pengelola Dana Pendidikan / LPDP) under the Ministry of Finance, Republic of Indonesia. We extend our deepest gratitude to the native Sikka language speakers and local research partners in Kabupaten Sikka for their invaluable collaboration in the digital preservation of the Sikka language.
